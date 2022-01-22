@@ -72,8 +72,3 @@ for user in userList:
     cur.execute(insertQuery)
     db.commit()
 db.close()
-
-# except:
-#     #TODO: hata kontrolu ekle
-#     pass
-
