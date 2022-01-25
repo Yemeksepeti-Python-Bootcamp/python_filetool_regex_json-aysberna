@@ -1,7 +1,7 @@
 # 2022 - YemekSepeti Python Web Development BootCamp
 # User model
 
-from common import RE
+from commons.common import RE
 
 class User:
     def __init__(self,
